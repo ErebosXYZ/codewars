@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.6"
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "node ex1.js"
+  }
+}
